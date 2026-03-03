@@ -1,4 +1,4 @@
-# Mesh Content PRinter
+# Mesh Content Printer
 
 An arduino Nano ESP32 is connected to a real time clock and a Heltec LoRa V3 and a thermal printer to print out all messages that come through on the open channel.
 
